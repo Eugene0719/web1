@@ -33,7 +33,7 @@ body {
     justify-content: center;
     height: 100vh;
     min-height: 450px;
-    background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(img/fruits.jpg);
+    background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(fruits.jpg);
     background-position: center;
     background-size: cover;
     color: #fff;
@@ -43,7 +43,7 @@ body {
 .conA.compact {
     height: 450px;
     min-height: 0;
-    background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(img/balloon.jpg);
+    background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(balloon.jpg);
 }
 
 .conA h1 {
@@ -78,7 +78,7 @@ body {
 }
 
 .conA a:hover {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(img/fruits.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(fruits.jpg);
     color: skyblue;
 }
 
@@ -195,12 +195,12 @@ body {
 
 
 .conC a:hover {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(img/fruits.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(fruits.jpg);
 }
 
 .conC .photo {
     min-height: 200px;
-    background-image: url(img/note.jpg);
+    background-image: url(note.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -256,13 +256,13 @@ body {
 }
 
 .conD a:hover {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(img/fruits.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(fruits.jpg);
     color: skyblue
 }
 
 .conD .photo {
     min-height: 200px;
-    background-image: url(img/life.jpg);
+    background-image: url(life.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -610,7 +610,7 @@ header {
 
 .history .photo {
     min-height: 300px;
-    background-image: url(img/plant.jpg);
+    background-image: url(plant.jpg);
     background-position: center;
     background-size: cover;
 }
